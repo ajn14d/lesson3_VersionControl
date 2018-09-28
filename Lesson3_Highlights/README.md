@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(09-28-2018)
 
 ## Student Name:  
-(First and Last Name)
+(Alex Nash)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment introduced us to Version Control, and introduced us to the Version Control System Git)
+
+## View Project:
+(https://ajn14d.github.io/lesson3_VersionControl/)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (VCR's are used to collaborate on a set of files between numourous individuals)
+2. (Repositories are were sets of files are stored.)
+3. (Git is a VCR and it will remember every edit and user who updates.)
 
